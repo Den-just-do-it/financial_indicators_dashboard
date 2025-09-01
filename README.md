@@ -3,7 +3,7 @@
 Этот проект содержит представление дашборда в Yandex DataLens и исходный файл данных.
 
 ## Ссылка на дашборд
-[Открыть дашборд в DataLens](https://datalens.yandex.cloud/qly7jf2qjspab?state=f683fea72265)
+[Открыть дашборд в DataLens](https://datalens.yandex/qly7jf2qjspab)
 
 ## Файлы проекта
 - `data` — файл с данными
